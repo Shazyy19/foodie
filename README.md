@@ -21,7 +21,13 @@
 <div style="display: flex; align-items: center;">
 <img src="https://github.com/Shazyy19/foodie/blob/main/login.jpeg" alt="Logo" width="200 style="margin-right: 10px;"/>
 <img src="https://github.com/Shazyy19/foodie/blob/main/Dashboard.jpeg" alt="Logo" width="200 style="margin-right: 10px;"/>
+  <img src="https://github.com/Shazyy19/foodie/blob/main/Home.jpeg" alt="Logo" width="200 style="margin-right: 10px;"/>
+  <img src="https://github.com/Shazyy19/foodie/blob/main/Orders.jpeg" alt="Logo" width="200 style="margin-right: 10px;"/>
+  <img src="https://github.com/Shazyy19/foodie/blob/main/More.jpeg" alt="Logo" width="200 style="margin-right: 10px;"/>
+  <img src="https://github.com/Shazyy19/foodie/blob/main/Settings.jpeg" alt="Logo" width="200 style="margin-right: 10px;"/>
+  <img src="https://github.com/Shazyy19/foodie/blob/main/Chat.jpeg" alt="Logo" width="200 style="margin-right: 10px;"/>
 </div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
