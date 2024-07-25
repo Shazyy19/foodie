@@ -1,5 +1,5 @@
 
-[![MasterHead](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)]
+![MasterHead](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)
 <h1 align="center">Hi 👋, I'm Syed Shahzaib Haider Rizvi</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -17,10 +17,11 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/syed-shahzaib-haider-rizvi-376851241/](https://www.linkedin.com/in/syed-shahzaib-haider-rizvi-376851241/)
 
 <h3 align="left">Screenshots:</h3>
-<img src="https://github.com/Shazyy19/foodie/blob/main/login.jpeg" alt="Logo" width="200"/>
 
-
-
+<div style="display: flex; align-items: center;">
+<img src="https://github.com/Shazyy19/foodie/blob/main/login.jpeg" alt="Logo" width="200 style="margin-right: 10px;"/>
+<img src="https://github.com/Shazyy19/foodie/blob/main/Dashboard.jpeg" alt="Logo" width="200 style="margin-right: 10px;"/>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
