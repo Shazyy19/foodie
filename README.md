@@ -17,8 +17,9 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/syed-shahzaib-haider-rizvi-376851241/](https://www.linkedin.com/in/syed-shahzaib-haider-rizvi-376851241/)
 
 <h3 align="left">Screenshots:</h3>
+<img src="https://github.com/Shazyy19/foodie/blob/main/login.jpeg" alt="Logo" width="200"/>
 
-![Login](image URL)
+
 
 
 <h3 align="left">Connect with me:</h3>
